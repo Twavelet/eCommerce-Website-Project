@@ -1,0 +1,68 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff;
+    color: black;
+    margin:0%
+}
+
+.upper-nav-bar{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.home{
+
+}
+
+.about{
+    
+}
+
+.products{
+
+}
+
+.contacts{
+    
+}
+
+.cara-1{
+    
+}
+
+.orange-logo{
+    
+    transform: scale(.5);
+}
+
+.cara-2{
+    
+}
+
+.search-bar{
+    
+    height: 20%;
+    padding-left: 10%;
+}
+
+.cart{
+
+}
+
+.welcome-graphic{
+    max-width: 100%;
+    height: auto;
+}
+
+.product-showcase{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
